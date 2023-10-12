@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('./sea.jpg');
+  background-color: #f2f2f2;
+
+
+}
+
+
+h1{
+  text-align : center ;
+  font-family:'Brush Script MT',cursive;
+  color:rgb(236,156,58);
+}
+#h{
+  font-size: 80px;
+}
+h2{
+  color: rgb(226,228,55);
+}
+#ch{
+  color: rgb(165,42,42);
+}
+canvas {
+  
+  width: 430px;
+  height: 480px;
+  margin: 10px;
+  border: 5px solid grey;
+}
